@@ -4,7 +4,7 @@ Final Project Batch 42
 #Anggota Kelompok
 1. Muhammad Dimas Farhansyah
 2. Zhicma Nabillah
-3. Satriopria
+3. Satrio Priambodo
 4.
 5.
 

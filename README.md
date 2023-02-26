@@ -12,6 +12,8 @@ Final Project Batch 42
 <a href='https://docs.google.com/spreadsheets/d/1P2QSHyAO2_Fam3hR5glC6FxexSeJDOnBswSrLWekuys/edit?usp=share_link'>Test Plan & Test Case </a>
 
 <h2>Test Case Document (Qase.io / Excel ) </h2>
+<a href='https://drive.google.com/drive/folders/1SkE7exDSNZ5XX1EYaL0_0HmI3lasQQlX?usp=share_link'>Test Case Document </a>
+
 <h3> Buatlah test cases dari beberapa fitur yang sudah di tentukan , kreasikan positive and negative scenarios sebanyak mungkin. </h3>
 
 <h2>Automation (Cypress / Selenium )</h2>
